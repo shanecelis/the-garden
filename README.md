@@ -1,4 +1,5 @@
-# The Garden v 2.0: A Parable Inspired by the Church of Emacs
+# The Garden v 2.0
+### A Parable Inspired by the Church of Emacs
 
 This is a comic I made with [Paper
 53](http://www.fiftythree.com/paper) and [Comic Life
