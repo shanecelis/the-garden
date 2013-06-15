@@ -3,7 +3,7 @@
 This is a comic I made with [Paper
 53](http://www.fiftythree.com/paper) and [Comic Life
 2](http://plasq.com/press/media/Comic_Life_2).  You can see the comic
-here.
+[here](http://shanecelis.github.io/2013/06/15/the-garden/).
 
 ## License
 
